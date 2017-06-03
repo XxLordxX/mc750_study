@@ -1,0 +1,53 @@
+Acessibilidade:
+
+	Usabilidade:
+		Atributos que avaliam o esforço necessário para usar a aplicação por um conjunto de usuários
+		O esforço para o qual um produto pode ser usado por usuários específicos levando em consideração efetividade, eficiência e satisfação.
+	
+		Para Nielsen e Shneiderman
+			Facilidade de Aprendizado
+			Eficiência no Uso
+			Facilidade no Retorno
+			Freq. Erros
+			Satisfação
+
+	Deficiências mais comuns:
+		Visuais:
+			Percepções de cores;
+			Visão subnormal - ampliadores sejam de telas ou fontes;
+			Cegueira - utilização do som;
+		Auditivas:
+			Uso de informações textuais ou gráficas;
+			Vocabulário utilizado;
+		Motoras:
+			Evitar combinações complexas de teclas;
+			Entrada de voz ou outras formas;
+		Cognitivas:
+			Dar controle ao usuário;
+			Linguagem apropriada;
+
+	Tecnologia Assistiva:
+		Software ou hardware projetado para apoiar pessoas com deficiências;
+
+		Exemplos:
+			Lupa, Ampliador de tela, linha braile, impressora braile, voice commands, agenda de voz, cadeira de rodas;
+
+	Acessibilidade Web:
+		Pessoas com deficiências podem usar a Web;
+		Perceber, entender, navegar e interagir com a web;
+		Conteúdo: Informação numa página web (texto, imagens, cores, ...)
+		Desenvolvedores: Designers, programadores, etc que contribuem com conteúdo
+
+	Design Universal:
+		Torna os produtos o mais acessível possível para o maior grupo possível;
+		Desenvolvido em 1997 com 7 princípios por um grupo de engenheiros, arquitetos, designers, pesquisadores
+		Liderado por Ronald Mace
+
+	Princípios:
+		Princípio 01: Uso equitativo -- pode ser vendido para pessoas com habilidades diversas
+		Princípio 02: Flexibilidade no uso -- o design acomoda uma grnade variedade de preferências e habilidades pessoais
+		Princípio 03: Simples -- fácil de entender, independente de tudo
+		Princípio 04: Informação perceptível -- informações necessárias ao usuário efetivamente
+		Princípio 05: Tolerância ao erro -- minimiza o risco e consequências de ações acidentais
+		Princípio 06: Baixo esforço físico -- pode ser usado confortavelmente com um mínimo de fadiga
+		Princípio 07: Tamanho e espaço para aproximação e uso -- tamanho e espaços apropriados para o uso independente do usuário
